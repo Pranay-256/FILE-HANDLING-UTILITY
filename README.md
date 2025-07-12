@@ -35,3 +35,7 @@ The next part of the program shows how to delete lines from a file if they conta
 Finally, the program reads the file one last time and prints the final result. This shows how the file looks after all the changes — writing, appending, modifying, and deleting lines.
 
 This program is a great way for beginners to understand how to work with files in Java. It covers all the important file operations in a simple and clear way. Each task is done step-by-step, and errors are handled properly using try-catch blocks. This makes the program safe and easy to follow.
+
+#Output
+
+<img width="396" height="313" alt="Image" src="https://github.com/user-attachments/assets/9fd58180-91a2-47da-a5e8-9fb045f86849" />
